@@ -1,0 +1,178 @@
+
+
+
+.navbar 
+{
+height:30px;
+width:100%;
+
+background-color:rgba(0,0,0,0.6);
+}
+
+.navbar .nav-link
+
+{
+    display: inline;
+	font-size:20PX;
+	padding-top:0px; 
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:10px;
+	font-size:15px
+
+}
+.nav-link:hover{
+
+background-color:#256B85;
+  border: 2px solid white;
+transition:0.3s;
+border-radius:20%;
+}
+
+
+.carousel-item
+{padding-left:300px;
+padding-right:50px;
+margin-top:50px;
+margin-bottom:10px
+
+}
+
+.body
+{
+background-color:black
+
+}
+.image1{
+border:1px solid;
+border-radius:30%;
+margin-left:20px;
+margin-top:70px
+
+}
+.image2{
+margin-top:50px;
+margin-left:50px;
+margin-right:05px;
+border-radius:50%;
+
+
+}
+.about
+{
+color:#0DC7F9;
+text-align:center
+}
+.p1,.p2,.p3
+{
+    font-size:15px;
+    color:white;
+    text-align:center;
+    background-color:#0C1A33;
+    width:230px;
+    height:295px;
+    border:1px solid white;
+    border-radius:10%;
+    padding:5px 20px;
+    margin:80px 100px;
+	}
+
+
+
+.gallery
+{
+color:#0DC7F9;
+text-align:center;
+}
+.p4
+{
+font-size:15px;
+color:white;
+text-align:center;
+background-color:rgba(10,50,0,0.5);
+width:300px;
+height:200px;
+border:1px solid #D8D5B2;
+border-radius:5%;
+padding:20px 5px;
+margin:15px 0px;
+}
+.p5
+{
+    font-size:15px;
+    color:white;
+    text-align:center;
+    background-color:rgba(10,50,0,0.5);
+    width:550px;
+    height:200px;
+    border:1px solid #D8D5B2;
+    border-radius:5%;
+    padding-top:50px;
+    padding-bottom:0px ;
+    margin:15px 10px;
+    }
+.feedback
+{
+color:#0DC7F9;
+text-align:center
+}
+.feedback1
+{
+background-image:url(./NewFolder/NOGOOOM5.JPG);
+background-size:center;
+
+}
+.product
+{
+color:#0DC7F9;
+text-align:center
+}
+.image3
+{ border:10px solid #5D6D7E;
+border-radius:20px 0px;
+margin-bottom:10px;
+width:200px;
+height:180px;
+margin-left: 10px;
+
+
+ }
+ .image3:hover{
+transform:scale(1.5,1.5);
+
+ }
+.pro2
+{
+float:left;
+background-color:black;
+margin-left: 15px;
+
+margin-right: 0px;
+}
+.gallery1
+{
+background-image:url(66.JPG);
+background-size:cover;
+
+}
+.Contactus
+{
+color:#0DC7F9;
+text-align:center;
+}
+
+button
+{
+width:90px}
+.no:hover{
+background-color:black;
+border-radius:40% ;
+}
+::-webkit-scrollbar { background:#808B96; width:10px;height:2px}
+::-webkit-scrollbar-thumb {
+background:#154360;
+    width: 8px;
+    border: 1px solid #BDC6C3;
+    -webkit-box-shadow: 0 1px 1px rgb(0,0,0);
+    background: -webkit-linear-gradient(rgb(200,200,200), rgb(150,150,150)}
+
